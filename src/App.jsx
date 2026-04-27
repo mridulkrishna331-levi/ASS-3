@@ -1,7 +1,7 @@
 import { useState } from "react";
-import Header from "./components/Header";
-import StudentTable from "./components/StudentTable";
-import AddStudentForm from "./components/AddStudentForm";
+import Header from "./Components/Header";
+import StudentTable from "./Components/StudentTable";
+import AddStudentForm from "./Components/AddStudentForm";
 import "./App.css";
 
 const initialStudents = [
